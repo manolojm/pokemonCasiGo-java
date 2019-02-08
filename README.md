@@ -3,6 +3,10 @@ Versión sencilla del popular juego Pokemon Go realizada en Java
 
 - - -
 
+[Enunciado](https://github.com/manolojm/pokemonCasiGo-java/blob/master/EnunciadoPractica.pdf) de la práctica
+
+- - -
+
 Mejoras planeadas para un futuro:
 - . . .
 
